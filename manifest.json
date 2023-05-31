@@ -4,7 +4,7 @@
   "manifest_version": 3,
   "description": "Permite convertir una cadena de texto en su equivalente en Base64",
   "icons": {
-    "16": "icons/help-about.svg"
+    "16": "icons/base64.png"
   },
   "action": {
     "default_popup": "popup.html"
